@@ -1,6 +1,6 @@
-#Hra života je hovno mrdka píčovina
+# Hra života je hovno mrdka píčovina
 
-##ani tohle není nadis
+## ani tohle není nadis
 
 možná to bude nadpis
 
