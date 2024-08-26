@@ -1,3 +1,3 @@
-Hra života je hovno mrdka píčovina
-
+#Hra života je hovno mrdka píčovina
+možná to bude nadpis
 
