@@ -8,7 +8,7 @@ Conwayova hra života je jeden z nejslavnějších buňečných automatů, kter�
 
 # Uživatelská dokumentace
 ### Spuštění
-Pro spuštění je třeba mít nainstalovaný Python, ve kterém po stažení a otevření souboru **hra_zivota.py** ještě nainstalovat knihovny NumPy a Pygame (pomocí příkazů *pip install numpy* a *pip install pygame*). Poté se nám hra spustí v novém okně po zadání příkazu *python hra_zivota.py*.
+Pro spuštění je třeba mít nainstalovaný Python, ve kterém po stažení a otevření souboru **hra_zivota.py** musíme ještě nainstalovat knihovny NumPy a Pygame (pomocí příkazů "*pip install numpy*" a "*pip install pygame*"). Poté se nám hra spustí v novém okně po zadání příkazu "*python hra_zivota.py*".
 ### Ovládání
 - buňky můžeme oživovat kliknutím levým tlačítkem myši
 - mezerníkem simulaci spouštíme a pozastavujeme
